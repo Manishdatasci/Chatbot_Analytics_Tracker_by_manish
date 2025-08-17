@@ -1,0 +1,43 @@
+timestamp,user_id,query,topic,rating
+2025-08-14 10:00:00,User1,How to apply for internship?,internship,5
+2025-08-14 10:05:00,User2,What is Streamlit?,tech,4
+2025-08-14 10:10:00,User1,How to build chatbot?,chatbot,5
+2025-08-14 10:20:00,User3,Python list vs tuple?,python,3
+2025-08-17 07:42:11,UserTest,What is ML?,machine learning,4
+2025-08-17 07:45:23,01,,,1
+2025-08-17 07:46:07,01,what is fever,health,3
+2025-08-17 07:47:15,userid9,what is sinus?,,1
+2025-08-17 07:48:20,userid_Manish,,,2
+2025-08-17 07:49:32,,What is NLP?,Deep Learning,1
+2025-08-17 07:50:12,,,Deep Learning,1
+2025-08-17 07:50:20,,,,4
+2025-08-17 07:50:28,,,,1
+2025-08-17 07:50:45,,,,1
+2025-08-17 07:50:49,,,,1
+2025-08-17 07:50:55,,,,1
+2025-08-17 07:50:59,,,,1
+2025-08-17 07:51:47,userid_Manish,What is NLP?,DL,5
+2025-08-17 07:52:05,,,,1
+2025-08-17 07:53:29,00111,What is Data Science?,Data Science,5
+2025-08-17 07:53:44,,,,1
+2025-08-17 07:59:30,11111,what is migraine?,health,5
+2025-08-17 08:08:37,0001111,what is sinus?,health,3
+2025-08-17 08:33:16,1111111,"what is sinus
+",health,1
+2025-08-17 08:48:54,1424bbbb,"what is Generative AI
+",Tech,1
+2025-08-17 08:51:29,1111yyyyy,what is bert?,tech,4
+2025-08-17 08:54:01,5657iii,what is the difference between Bert and ChatGPT?,tech,1
+2025-08-17 08:54:12,5657iii,what is the difference between Bert and ChatGPT?,tech,5
+2025-08-17 08:54:17,5657iii,what is the difference between Bert and ChatGPT?,tech,5
+2025-08-17 08:54:19,5657iii,what is the difference between Bert and ChatGPT?,tech,5
+2025-08-17 08:54:19,5657iii,what is the difference between Bert and ChatGPT?,tech,5
+2025-08-17 08:54:20,5657iii,what is the difference between Bert and ChatGPT?,tech,5
+2025-08-17 08:54:20,5657iii,what is the difference between Bert and ChatGPT?,tech,5
+2025-08-17 08:54:21,5657iii,what is the difference between Bert and ChatGPT?,tech,5
+2025-08-17 08:54:22,5657iii,what is the difference between Bert and ChatGPT?,tech,5
+2025-08-17 08:54:22,5657iii,what is the difference between Bert and ChatGPT?,tech,5
+2025-08-17 08:54:44,5657iii,what is the difference between Gemini and ChatGPT?,tech,5
+2025-08-17 08:54:44,5657iii,what is the difference between Gemini and ChatGPT?,tech,5
+2025-08-17 08:54:45,5657iii,what is the difference between Gemini and ChatGPT?,tech,5
+2025-08-17 08:54:45,5657iii,what is the difference between Gemini and ChatGPT?,tech,5
