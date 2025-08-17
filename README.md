@@ -10,3 +10,9 @@ A simple and interactive Chatbot Analytics Tracker built using Streamlit. It hel
 - Simple & interactive UI (no internet needed)
 
 ## 🛠 Folder Structure
+
+chatbot-analytics-tracker/
+├── dashboard_app.py # Main Streamlit app
+├── analytics_data.csv # Data file (auto-generated)
+├── requirements.txt # Python dependencies
+└── README.md # Project description
